@@ -1,8 +1,8 @@
 # Proyecto_java_upn 
 # integrantes 
--michael 
--
--
+- Parra Sebastian Michael Bleyd 
+- Barbudo Chavarria Mathias Benjamin
+- Deyanira Antonella Soto Mamani
 
 
 ## problematica del negocio 
