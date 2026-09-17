@@ -6,7 +6,7 @@
 
 
 ## problematica del negocio 
-hola mundo gente de yt  
+hola mundo gente de yt - grupo 05 - true
 ## objetivos
 
 ## tecnologias
