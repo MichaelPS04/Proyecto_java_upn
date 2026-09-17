@@ -8,7 +8,7 @@
 ## problematica del negocio 
 hola 
 ## objetivos
-
+:v
 ## tecnologias
 - java
 - github
