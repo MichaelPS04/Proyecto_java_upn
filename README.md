@@ -6,7 +6,7 @@
 
 
 ## problematica del negocio 
-hola mundo
+hola mundo gente de yt  
 ## objetivos
 
 ## tecnologias
