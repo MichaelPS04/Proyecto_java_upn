@@ -6,7 +6,7 @@
 
 
 ## problematica del negocio 
-hola 
+hola mundo gente de yt  
 ## objetivos
 Mejorar los procesos
 ## tecnologias
