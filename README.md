@@ -6,7 +6,7 @@
 
 
 ## problematica del negocio 
-
+hola 
 ## objetivos
 
 ## tecnologias
